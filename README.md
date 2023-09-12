@@ -1,2 +1,8 @@
 # Blog
-This is bloging software made in python PyQy5 
+this is simple blog App with auto login 
+# Requirements in Python 
+pip install mysql-copnnector
+
+pip install pyqt5 
+
+# LocalHost Server is importent 
